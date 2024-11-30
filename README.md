@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 30.11.2024
+## Register Number: 24007299
+## Name: MERIL GOLDLINA A
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,68 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1. Alumni Registration & Profile Management
 
+Simple registration process using email, social media, or mobile number.
+
+Ability to update and manage profiles with personal details, professional background, and interests.
+
+2. Donation Portal
+
+Secure payment gateway integration (PayPal, Stripe, UPI, etc.).
+
+Options to donate to specific initiatives like scholarships, infrastructure development, or research projects.
+
+3. Networking Hub
+
+Connect alumni based on shared interests, industries, or geographic locations.
+
+Messaging and forum functionalities for real-time discussions.
+
+4. Job Portal
+
+Job board where alumni can post or search for jobs.
+
+Resume upload and application tracking system.
+
+5. Alumni Directory
+
+Search alumni by graduation year, program, location, or industry.
+
+Public/Private visibility settings for users.
+
+7. Events and Reunions
+
+Event management tools for creating and promoting events.
+
+Online registration, ticketing, and attendance tracking.
+
+8. Feedback and Surveys
+
+Customizable surveys to gather alumni feedback on various initiatives.
+
+Anonymous feedback options.
 
 ## Proposed Solution / Architecture Diagram
+![WhatsApp Image 2024-11-30 at 21 46 46_ca121bf3](https://github.com/user-attachments/assets/d921ecaa-5493-45ee-a57e-49d3011709b8)
 
 
 ## Use Cases
+![WhatsApp Image 2024-11-30 at 21 47 29_a1213a58](https://github.com/user-attachments/assets/537d2381-b802-42a7-8326-4afa94e041ed)
 
 
 ## Technology Stack
+React.js
 
+Next.js 
+
+Tailwind CSS 
+
+Material-UI
 
 ## Dependencies
+1.Docker: For Containerization
 
+2.PM2:For process management
+
+3.CI/CD Tools:Plugins for GitHub Actions,Jenkins,or CircleCl
