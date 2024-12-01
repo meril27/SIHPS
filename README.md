@@ -53,7 +53,7 @@ Customizable surveys to gather alumni feedback on various initiatives.
 Anonymous feedback options.
 
 ## Proposed Solution / Architecture Diagram
-![WhatsApp Image 2024-11-30 at 21 46 46_ca121bf3](https://github.com/user-attachments/assets/d921ecaa-5493-45ee-a57e-49d3011709b8)
+![WhatsApp Image 2024-12-01 at 09 16 04_85d4dd21](https://github.com/user-attachments/assets/49be5085-cb28-4724-85b7-6018e37f3d73)
 
 
 ## Use Cases
